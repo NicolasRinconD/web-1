@@ -1,0 +1,54 @@
+col {
+    padding: 10px;
+}
+
+.profile{
+    padding-top: 20px;
+    margin: 20px;
+    text-align: center;
+    /*background-color: rgba(127, 236, 255, 0.664);*/
+
+}
+
+.floaty-left{
+    float: left;
+}
+
+.floaty-right{
+    float: right;
+}
+
+.imageContainer {
+    border: 1px black solid;
+  
+    width: 350px;
+    height: 200px;
+    overflow: hidden;
+  }
+
+  .imageHolder {
+    border: 1px red dotted;
+  
+    height: 100%;
+    display:flex;
+    align-item: center;
+  }
+
+  .footer{
+      padding:80px;
+  }
+
+  i{
+      margin: 10px;
+  }
+
+  .hobby {
+      border: 1px solid black;
+      border-radius: 5px;
+      margin: 10px;
+  }
+
+  .the-title {
+      color: goldenrod;
+      text-size-adjust: 20;
+  }
